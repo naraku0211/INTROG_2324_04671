@@ -22,9 +22,7 @@ C:\Users\63921\Documents\GitHub\INTROG_2324_04671\PartyInvites\obj\Debug\net8.0\
 C:\Users\63921\Documents\GitHub\INTROG_2324_04671\PartyInvites\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.PartyInvites.props
 C:\Users\63921\Documents\GitHub\INTROG_2324_04671\PartyInvites\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.PartyInvites.props
 C:\Users\63921\Documents\GitHub\INTROG_2324_04671\PartyInvites\obj\Debug\net8.0\staticwebassets.pack.json
-C:\Users\63921\Documents\GitHub\INTROG_2324_04671\PartyInvites\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\63921\Documents\GitHub\INTROG_2324_04671\PartyInvites\obj\Debug\net8.0\scopedcss\bundle\PartyInvites.styles.css
-C:\Users\63921\Documents\GitHub\INTROG_2324_04671\PartyInvites\obj\Debug\net8.0\scopedcss\projectbundle\PartyInvites.bundle.scp.css
 C:\Users\63921\Documents\GitHub\INTROG_2324_04671\PartyInvites\obj\Debug\net8.0\PartyInvites.dll
 C:\Users\63921\Documents\GitHub\INTROG_2324_04671\PartyInvites\obj\Debug\net8.0\refint\PartyInvites.dll
 C:\Users\63921\Documents\GitHub\INTROG_2324_04671\PartyInvites\obj\Debug\net8.0\PartyInvites.pdb

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\63921\\Desktop\\ASPNET\\PartyInvites\\PartyInvites.csproj",
+      "projectUniqueName": "C:\\Users\\63921\\Documents\\GitHub\\INTROG_2324_04671\\PartyInvites\\PartyInvites.csproj",
       "projectName": "PartyInvites",
-      "projectPath": "C:\\Users\\63921\\Desktop\\ASPNET\\PartyInvites\\PartyInvites.csproj",
+      "projectPath": "C:\\Users\\63921\\Documents\\GitHub\\INTROG_2324_04671\\PartyInvites\\PartyInvites.csproj",
       "packagesPath": "C:\\Users\\63921\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\63921\\Desktop\\ASPNET\\PartyInvites\\obj\\",
+      "outputPath": "C:\\Users\\63921\\Documents\\GitHub\\INTROG_2324_04671\\PartyInvites\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\63921\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -40,6 +40,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -64,7 +69,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

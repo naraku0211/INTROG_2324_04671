@@ -7,33 +7,37 @@
 <html>
     <head>
         <meta name="viewport" content="width=device-width" />
-        <title>Rsvp Form</title>
+        <title>RSVP Form</title>
+        <link href="~/lib/bootstrap/dist/css/bootstrap.css" rel="stylesheet" />
+        <link href="~/css/site.css" rel="stylesheet" />
     </head>
     <body>
-        <form asp-action="RsvpForm" method="post">
+        <h5 class="bg-primary text-white text-center m-2 p-2">RSVP Form</h5>
+        <form asp-action="RsvpForm" method="post" class="m-2">
             <div class="container-fluid">
-                <div class="row">
-                    <label asp-for="Name">Your Name: </label>
-                    <input type="text" asp-for="Name" />
+                <div asp-validation-summary="All"></div>
+                <div class="form-group">
+                    <label asp-for="Name" class="form-label ">Your Name: </label>
+                    <input type="text" asp-for="Name" class="form-control input-validation-error" />
                 </div>
-                <div class="row">
-                    <label asp-for="Email">Email Address: </label>
-                    <input type="email" asp-for="Email" />
+                <div class="form-group">
+                    <label asp-for="Email" class="form-label">Email Address: </label>
+                    <input type="email" asp-for="Email" class="form-control input-validation-error" />
                 </div>
-                <div class="row">
-                    <label asp-for="Phone">Phone/Cell Number: </label>
-                    <input asp-for="Phone" />
+                <div class="form-group">
+                    <label asp-for="Phone" class="form-label">Phone/Cell Number: </label>
+                    <input asp-for="Phone" class="form-control input-validation-error" />
                 </div>
-                <div class="row">
-                    <label asp-for="WillAttend">Will Attend???</label>
-                    <select asp-for="WillAttend">
+                <div class="form-group">
+                    <label asp-for="WillAttend" class="form-label">Will Attend???</label>
+                    <select asp-for="WillAttend" class="form-control input-validation-error">
                         <option value="">Choose a selection</option>
                         <option value="true">Yes, I will attend the party.</option>
                         <option value="false">No, I will not attend the party.</option>
                     </select>
                 </div>
             </div>
-            <button type="submit">Submit RSVP Form</button>
+            <button type="submit" class="btn btn-primary mt-3">Submit RSVP Form</button>
         </form>
     </body>
 </html>
