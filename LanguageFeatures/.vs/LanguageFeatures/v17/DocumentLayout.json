@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\63921\\Desktop\\ASPNET\\15446\\LanguageFeatures\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B5E2173F-3240-4543-9614-74109B8F87B9}|LanguageFeatures.csproj|c:\\users\\63921\\desktop\\aspnet\\15446\\languagefeatures\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5E2173F-3240-4543-9614-74109B8F87B9}|LanguageFeatures.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5E2173F-3240-4543-9614-74109B8F87B9}|LanguageFeatures.csproj|c:\\users\\63921\\desktop\\aspnet\\15446\\languagefeatures\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5E2173F-3240-4543-9614-74109B8F87B9}|LanguageFeatures.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5E2173F-3240-4543-9614-74109B8F87B9}|LanguageFeatures.csproj|c:\\users\\63921\\desktop\\aspnet\\15446\\languagefeatures\\models\\myextensionmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5E2173F-3240-4543-9614-74109B8F87B9}|LanguageFeatures.csproj|solutionrelative:models\\myextensionmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5E2173F-3240-4543-9614-74109B8F87B9}|LanguageFeatures.csproj|c:\\users\\63921\\desktop\\aspnet\\15446\\languagefeatures\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B5E2173F-3240-4543-9614-74109B8F87B9}|LanguageFeatures.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5E2173F-3240-4543-9614-74109B8F87B9}|LanguageFeatures.csproj|c:\\users\\63921\\desktop\\aspnet\\15446\\languagefeatures\\models\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5E2173F-3240-4543-9614-74109B8F87B9}|LanguageFeatures.csproj|solutionrelative:models\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5E2173F-3240-4543-9614-74109B8F87B9}|LanguageFeatures.csproj|c:\\users\\63921\\desktop\\aspnet\\15446\\languagefeatures\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5E2173F-3240-4543-9614-74109B8F87B9}|LanguageFeatures.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5E2173F-3240-4543-9614-74109B8F87B9}|LanguageFeatures.csproj|c:\\users\\63921\\desktop\\aspnet\\15446\\languagefeatures\\global.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B5E2173F-3240-4543-9614-74109B8F87B9}|LanguageFeatures.csproj|solutionrelative:global.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5E2173F-3240-4543-9614-74109B8F87B9}|LanguageFeatures.csproj|c:\\users\\63921\\desktop\\aspnet\\15446\\languagefeatures\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B5E2173F-3240-4543-9614-74109B8F87B9}|LanguageFeatures.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MyExtensionMethods.cs",
+              "DocumentMoniker": "C:\\Users\\63921\\Desktop\\ASPNET\\15446\\LanguageFeatures\\Models\\MyExtensionMethods.cs",
+              "RelativeDocumentMoniker": "Models\\MyExtensionMethods.cs",
+              "ToolTip": "C:\\Users\\63921\\Desktop\\ASPNET\\15446\\LanguageFeatures\\Models\\MyExtensionMethods.cs",
+              "RelativeToolTip": "Models\\MyExtensionMethods.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAIwB0AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T01:33:36.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ShoppingCart.cs",
+              "DocumentMoniker": "C:\\Users\\63921\\Desktop\\ASPNET\\15446\\LanguageFeatures\\Models\\ShoppingCart.cs",
+              "RelativeDocumentMoniker": "Models\\ShoppingCart.cs",
+              "ToolTip": "C:\\Users\\63921\\Desktop\\ASPNET\\15446\\LanguageFeatures\\Models\\ShoppingCart.cs",
+              "RelativeToolTip": "Models\\ShoppingCart.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T01:30:00.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "global.json",
+              "DocumentMoniker": "C:\\Users\\63921\\Desktop\\ASPNET\\15446\\LanguageFeatures\\global.json",
+              "RelativeDocumentMoniker": "global.json",
+              "ToolTip": "C:\\Users\\63921\\Desktop\\ASPNET\\15446\\LanguageFeatures\\global.json",
+              "RelativeToolTip": "global.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-16T00:09:38.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\63921\\Desktop\\ASPNET\\15446\\LanguageFeatures\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\63921\\Desktop\\ASPNET\\15446\\LanguageFeatures\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAAAYAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-16T00:08:40.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\63921\\Desktop\\ASPNET\\15446\\LanguageFeatures\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\63921\\Desktop\\ASPNET\\15446\\LanguageFeatures\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-16T00:05:27.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\63921\\Desktop\\ASPNET\\15446\\LanguageFeatures\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\63921\\Desktop\\ASPNET\\15446\\LanguageFeatures\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAUwE8AAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-16T00:03:20.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\63921\\Desktop\\ASPNET\\15446\\LanguageFeatures\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "C:\\Users\\63921\\Desktop\\ASPNET\\15446\\LanguageFeatures\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAywA8AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T23:57:38.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\63921\\Desktop\\ASPNET\\15446\\LanguageFeatures\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\63921\\Desktop\\ASPNET\\15446\\LanguageFeatures\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T23:53:45.277Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

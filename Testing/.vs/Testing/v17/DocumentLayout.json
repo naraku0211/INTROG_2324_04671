@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\63921\\Desktop\\ASPNET\\15446\\Testing\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D9420A2B-F56E-4471-8BD4-019052F8F2A8}|SimpleApp.Tests\\SimpleApp.Tests.csproj|c:\\users\\63921\\desktop\\aspnet\\15446\\testing\\simpleapp.tests\\homecontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9420A2B-F56E-4471-8BD4-019052F8F2A8}|SimpleApp.Tests\\SimpleApp.Tests.csproj|solutionrelative:simpleapp.tests\\homecontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50C36A18-F11E-4CD4-9D95-F846B10EE610}|SimpleApp\\SimpleApp.csproj|c:\\users\\63921\\desktop\\aspnet\\15446\\testing\\simpleapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50C36A18-F11E-4CD4-9D95-F846B10EE610}|SimpleApp\\SimpleApp.csproj|solutionrelative:simpleapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50C36A18-F11E-4CD4-9D95-F846B10EE610}|SimpleApp\\SimpleApp.csproj|c:\\users\\63921\\desktop\\aspnet\\15446\\testing\\simpleapp\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50C36A18-F11E-4CD4-9D95-F846B10EE610}|SimpleApp\\SimpleApp.csproj|solutionrelative:simpleapp\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50C36A18-F11E-4CD4-9D95-F846B10EE610}|SimpleApp\\SimpleApp.csproj|c:\\users\\63921\\desktop\\aspnet\\15446\\testing\\simpleapp\\models\\idatasource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50C36A18-F11E-4CD4-9D95-F846B10EE610}|SimpleApp\\SimpleApp.csproj|solutionrelative:simpleapp\\models\\idatasource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9420A2B-F56E-4471-8BD4-019052F8F2A8}|SimpleApp.Tests\\SimpleApp.Tests.csproj|c:\\users\\63921\\desktop\\aspnet\\15446\\testing\\simpleapp.tests\\comparer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9420A2B-F56E-4471-8BD4-019052F8F2A8}|SimpleApp.Tests\\SimpleApp.Tests.csproj|solutionrelative:simpleapp.tests\\comparer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9420A2B-F56E-4471-8BD4-019052F8F2A8}|SimpleApp.Tests\\SimpleApp.Tests.csproj|c:\\users\\63921\\desktop\\aspnet\\15446\\testing\\simpleapp.tests\\producttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9420A2B-F56E-4471-8BD4-019052F8F2A8}|SimpleApp.Tests\\SimpleApp.Tests.csproj|solutionrelative:simpleapp.tests\\producttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50C36A18-F11E-4CD4-9D95-F846B10EE610}|SimpleApp\\SimpleApp.csproj|c:\\users\\63921\\desktop\\aspnet\\15446\\testing\\simpleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50C36A18-F11E-4CD4-9D95-F846B10EE610}|SimpleApp\\SimpleApp.csproj|solutionrelative:simpleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50C36A18-F11E-4CD4-9D95-F846B10EE610}|SimpleApp\\SimpleApp.csproj|c:\\users\\63921\\desktop\\aspnet\\15446\\testing\\simpleapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50C36A18-F11E-4CD4-9D95-F846B10EE610}|SimpleApp\\SimpleApp.csproj|solutionrelative:simpleapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\63921\\Desktop\\ASPNET\\15446\\Testing\\SimpleApp.Tests\\HomeControllerTests.cs",
+              "RelativeDocumentMoniker": "SimpleApp.Tests\\HomeControllerTests.cs",
+              "ToolTip": "C:\\Users\\63921\\Desktop\\ASPNET\\15446\\Testing\\SimpleApp.Tests\\HomeControllerTests.cs",
+              "RelativeToolTip": "SimpleApp.Tests\\HomeControllerTests.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAkwCEAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T00:36:18.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IDataSource.cs",
+              "DocumentMoniker": "C:\\Users\\63921\\Desktop\\ASPNET\\15446\\Testing\\SimpleApp\\Models\\IDataSource.cs",
+              "RelativeDocumentMoniker": "SimpleApp\\Models\\IDataSource.cs",
+              "ToolTip": "C:\\Users\\63921\\Desktop\\ASPNET\\15446\\Testing\\SimpleApp\\Models\\IDataSource.cs",
+              "RelativeToolTip": "SimpleApp\\Models\\IDataSource.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T00:29:59.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Comparer.cs",
+              "DocumentMoniker": "C:\\Users\\63921\\Desktop\\ASPNET\\15446\\Testing\\SimpleApp.Tests\\Comparer.cs",
+              "RelativeDocumentMoniker": "SimpleApp.Tests\\Comparer.cs",
+              "ToolTip": "C:\\Users\\63921\\Desktop\\ASPNET\\15446\\Testing\\SimpleApp.Tests\\Comparer.cs",
+              "RelativeToolTip": "SimpleApp.Tests\\Comparer.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAswCAAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T00:22:40.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductTests.cs",
+              "DocumentMoniker": "C:\\Users\\63921\\Desktop\\ASPNET\\15446\\Testing\\SimpleApp.Tests\\ProductTests.cs",
+              "RelativeDocumentMoniker": "SimpleApp.Tests\\ProductTests.cs",
+              "ToolTip": "C:\\Users\\63921\\Desktop\\ASPNET\\15446\\Testing\\SimpleApp.Tests\\ProductTests.cs",
+              "RelativeToolTip": "SimpleApp.Tests\\ProductTests.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAmwB4AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T00:08:15.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\63921\\Desktop\\ASPNET\\15446\\Testing\\SimpleApp\\Program.cs",
+              "RelativeDocumentMoniker": "SimpleApp\\Program.cs",
+              "ToolTip": "C:\\Users\\63921\\Desktop\\ASPNET\\15446\\Testing\\SimpleApp\\Program.cs",
+              "RelativeToolTip": "SimpleApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T00:01:53.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\63921\\Desktop\\ASPNET\\15446\\Testing\\SimpleApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "SimpleApp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\63921\\Desktop\\ASPNET\\15446\\Testing\\SimpleApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "SimpleApp\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-22T23:58:09.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\63921\\Desktop\\ASPNET\\15446\\Testing\\SimpleApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "SimpleApp\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\63921\\Desktop\\ASPNET\\15446\\Testing\\SimpleApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "SimpleApp\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T23:57:18.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\63921\\Desktop\\ASPNET\\15446\\Testing\\SimpleApp\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "SimpleApp\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\63921\\Desktop\\ASPNET\\15446\\Testing\\SimpleApp\\Models\\Product.cs",
+              "RelativeToolTip": "SimpleApp\\Models\\Product.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAiwCIAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T23:53:05.312Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
